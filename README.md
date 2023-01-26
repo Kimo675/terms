@@ -17,4 +17,4 @@ You agree to
 Wonyoung is not affiliated with or endorsed by Discord.
 
 ## Changes
-We may update these terms of service at our discretion. If you continue to use Wonyoung after the these terms are changed, you agree to the updated terms of service.
+We may update these terms of service at any time. If you continue to use Wonyoung after the these terms are changed, you agree to the updated terms of service.
