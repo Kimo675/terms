@@ -2,7 +2,7 @@
 By using any of Wonyoung's commands or adding Wonyoung to a Discord server, you agree that you have read, understood, and accept these terms.
 
 ## Contact
-You can contact us via email at wonyoung.discord.bot@gmail.com or in our support Discord server at [discord.gg/wonyoungbot](https://discord.gg/wonyoungbot).
+You can contact us via email at <wonyoung.discord.bot@gmail.com> or in our support Discord server at [discord.gg/wonyoungbot](https://discord.gg/wonyoungbot).
 
 ## Usage agreement
 You agree to
