@@ -13,6 +13,8 @@ You agree to
 - not use programs, macros, or other methods to automate usage of Wonyoung
 - only use one account for Wonyoung
 
+We reserve the right to prohibit you from using Wonyoung if we believe that you are violating this usage agreement.
+
 ## Affiliation
 Wonyoung is not affiliated with or endorsed by Discord.
 
